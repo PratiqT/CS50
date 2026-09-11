@@ -1,2 +1,2 @@
 text = input("")
-print(text.replace(":)" , "🙂").replace(":(" ,"🙁" ))
+print(text.replace(":)" , "🙂").replace(":(" ,"🙁" )) 
