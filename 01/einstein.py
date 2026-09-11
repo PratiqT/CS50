@@ -1,2 +1,2 @@
 mass = int(input("m:"))
-print(mass * 90000000000000000)
+print(mass * 90000000000000000) 
