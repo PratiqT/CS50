@@ -1,2 +1,2 @@
 text = input("")
-print(text.replace(" " , "..."))
+print(text.replace(" " , "...")) 
