@@ -3,4 +3,4 @@ if ques.strip().lower() == "42" or ques.strip().lower() == "forty-two" or ques.s
 
     print("Yes")
 else:
-    print("No")
+    print("No")  
