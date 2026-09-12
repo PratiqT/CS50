@@ -20,4 +20,4 @@ if z >= 99:
 elif z <= 1:
     print("E")
 else:
-        print(f"{z}%")
+        print(f"{z}%") 
