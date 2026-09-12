@@ -19,3 +19,4 @@ while True:
             print(f"Total: ${total:.2f}")
     except EOFError:
         break
+ 
