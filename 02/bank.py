@@ -5,4 +5,4 @@ if x.lower().startswith("hello"):
 elif x.lower().startswith("h"):
     print("$20")
 else:
-    print("$100")
+    print("$100") 
