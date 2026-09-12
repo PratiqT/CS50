@@ -6,4 +6,4 @@ for i in camelcase:
     else:
         snakecase += i
 
-print("snake_case: " , snakecase)
+print("snake_case: " , snakecase) 
