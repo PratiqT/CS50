@@ -22,7 +22,7 @@ nutrition_info = {
         "watermelon": 80
     }
 if fruit in nutrition_info:
-        print(f"Calories: {nutrition_info[fruit]}")
+        print(f"Calories: {nutrition_info[fruit]}") 
 
 
 
