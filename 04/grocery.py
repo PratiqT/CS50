@@ -10,7 +10,7 @@ while True:
             break
 
 for item in sorted(items):
-    print(items[item], item)
+    print(items[item], item) 
 
 
 
