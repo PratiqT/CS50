@@ -5,7 +5,7 @@ for i in word:
         result += i
 
 
-print("Output:", result)
+print("Output:", result) 
 
 
 
