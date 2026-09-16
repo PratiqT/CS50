@@ -10,3 +10,4 @@ def test_h():
 def test_other():
     assert value("What's up?") == 100
     assert value("good morning") == 100
+    
