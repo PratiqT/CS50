@@ -1,4 +1,4 @@
-from LECTURE_TEST06.test_bank.bank import value
+from 06.test_bank.bank import value
 def test_hello():
     assert value("hello") == 0
     assert value("Hello, Newman") == 0
